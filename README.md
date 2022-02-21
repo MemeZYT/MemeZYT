@@ -1,7 +1,7 @@
 ## About me
-Hey, I'm Sundei also known as MemeZ.
+Hey, I'm sundei also known as MemeZ.
 
-I'm a 15 year old student from Estonia who develops in various Programming Languages.
+I'm a 15 year old student from Estonia/Lithuania who develops in various Programming Languages.
 
 
 ## Languages, IDEs and Tools
@@ -30,6 +30,6 @@ I'm a 15 year old student from Estonia who develops in various Programming Langu
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemeZYT&show_icons=true&theme=tokyonight)](https://github.com/MemeZYT/github-readme-stats)
 
 ## Contact me
-Discord: sundei#1111 \
-Email:   [memezgt5@gmail.com](mailto:memezgt5@gmail.com) \
-GTPS Website: [gtos2.com](https://gtos2.com)
+Discord: sundei#1234 \
+Email:   [sundei@sundei.de](mailto:sundei@sundei.de) \
+GTPS Website: [privategt.net](https://privategt.net)
