@@ -28,7 +28,7 @@ I'm a 15 year old student from Estonia/Lithuania who develops in various Program
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemeZYT&show_icons=true&theme=tokyonight)](https://github.com/MemeZYT/github-readme-stats)
-
+[![Discord Status, if this text is visible and blue that means that the host or discord status thing is in maintenance/down](https://discord.c99.nl/widget/theme-2/919168221481938984.png)](https://discord.gg/gtos/)
 ## Contact me
 Discord: sundei#1234 \
 Email:   [sundei@sundei.de](mailto:sundei@sundei.de) \
